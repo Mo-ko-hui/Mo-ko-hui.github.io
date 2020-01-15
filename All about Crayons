@@ -20,6 +20,26 @@
     <li>Yellow</li>
     <li>Violet</li>
   </ul>
+  
   <table></table>
+  <thead></thead>
+    <tr></tr>
+  <th></th>
+  <th></th>
+  <th></th>
+  <tbody></tbody>
+    <tr></tr>
+  <td></td>
+  <td></td>
+  <td></td>
+    <tr></tr>
+  <td></td>
+  <td></td>
+  <td></td>
+    <tr></tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  
   </body>
   </html>
