@@ -1,0 +1,25 @@
+ <!Doctype html>
+ <html>
+ <head>
+  <meta charset="utf-8">
+  <title>HTML basics</title>
+ </head>
+ 
+ <body> 
+  <h1>Did you notice the size of the words on the screen?</h1>
+  <h2>The words get smaller and smaller by this order: h1, h2, h3, h4, h5, h6.</h2>
+  <h3>This goes all the way to the h6 tag.</h3>
+  <p>All about crayons: <br>
+    There are <strong>many</strong> different kinds of crayons. <em>Red ones, yellow ones, and others too.</em> <br>
+  How do you know which one is which? You can tell by the words on the side of the <strong><em>Crayon</em></strong> wrapping.</p>
+  
+ <!-- Ol vs. Ul, and li in between -->
+  <h4>Some different colors of crayons</h4>
+  <ul>
+    <li>Indigo</li>
+    <li>Yellow</li>
+    <li>Violet</li>
+  </ul>
+  <table></table>
+  </body>
+  </html>
